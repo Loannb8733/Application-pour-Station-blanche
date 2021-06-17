@@ -1,0 +1,6 @@
+C:\Users\Loann\Downloads\BitlockerManager-master\BitlockerManager-master\SOURCE\Core\bin\Debug\BitlockerManager.dll
+C:\Users\Loann\Downloads\BitlockerManager-master\BitlockerManager-master\SOURCE\Core\bin\Debug\BitlockerManager.pdb
+C:\Users\Loann\Downloads\BitlockerManager-master\BitlockerManager-master\SOURCE\Core\obj\Debug\BitLockerManager.csprojAssemblyReference.cache
+C:\Users\Loann\Downloads\BitlockerManager-master\BitlockerManager-master\SOURCE\Core\obj\Debug\BitLockerManager.csproj.CoreCompileInputs.cache
+C:\Users\Loann\Downloads\BitlockerManager-master\BitlockerManager-master\SOURCE\Core\obj\Debug\BitlockerManager.dll
+C:\Users\Loann\Downloads\BitlockerManager-master\BitlockerManager-master\SOURCE\Core\obj\Debug\BitlockerManager.pdb
